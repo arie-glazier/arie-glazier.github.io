@@ -3,7 +3,7 @@ title: "Making Human-Like Trade-offs in Constrained Environments by Learning fro
 collection: publications
 category: manuscripts
 permalink: /publication/2025-05-19-demonstrations
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2025-05-19
 venue: 'AAMAS (under review)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
