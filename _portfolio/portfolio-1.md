@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Ethical RL"
+excerpt: "<img src='/images/erl_8x8.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Ethical RL is a Python library for generating standard RL baselines, training agents with ethical constraints, and evaluating agent performance.
+
+This repo is implemented on top of OpenAI gym and is based heavily on gym-minigrid.
