@@ -14,19 +14,17 @@ Education
 * Ph.D in Computer Science, Tulane University, 2026 (expected)
 * M.S. in Computer Science, Tulane University, 2021
 * M.A. in Economics, Tulane University, 2013
-* B.S. in Business Economics & Public Policy, Indiana University, 2010
+* B.S. in Business Economics & Public Policy, Indiana University (Kelley School of Business), 2010
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2021 - January 2024: Director of Machine Learning
+  * Arturo.ai
+  * Duties includes: Led AI organization (ML engineers, ML software engineers, Data Qualiity), Computer Vision model development, software development
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2016 - May 2021: Software Engineer
+  * rasa.io
+  * Duties included: Designed & Implemented distributed and scalable AI solutions for 1:1 personalized email platform
 
 * Summer 2015: Research Assistant
   * Github University
@@ -35,12 +33,28 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning Engineering
+  * PyTorch
+  * Tensorflow
+* Data Science
+  * Apache Spark
+  * NumPy
+  * Pandas
+  * Scikit-learn
+* Software Engineering
+  * Python
+  * SQL
+  * Typescript
+  * Angular
+  * Django
+  * bash
+  * C#
+* Cloud Deployment
+  * AWS
+  * Azure
+  * Docker
+  * Airflow
+  * Kubernetes
 
 Publications
 ======
