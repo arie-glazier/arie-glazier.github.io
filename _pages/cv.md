@@ -20,16 +20,17 @@ Work experience
 ======
 * May 2021 - January 2024: Director of Machine Learning
   * Arturo.ai
-  * Duties includes: Led AI organization (ML engineers, ML software engineers, Data Qualiity), Computer Vision model development, software development
+  * Duties included: Led AI organization (ML engineers, ML software engineers, Data Qualiity), Computer Vision model development, software development
 
 * January 2016 - May 2021: Software Engineer
   * rasa.io
   * Duties included: Designed & Implemented distributed and scalable AI solutions for 1:1 personalized email platform
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2014 - January 2016: Data Specialist
+  * KIPP New Orleans Schools
+
+* August 2013 - August 2014: Consultant
+  * Quorum Business Solutions
   
 Skills
 ======
