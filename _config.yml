@@ -21,7 +21,7 @@ repository               : "arie-glazier/arie-glazier.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.jpeg"
   name             : "Arie Glazier"
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD student in Computer Science at Tulane University. My research interests include reinforcement learning, learning from demonstrations, constraint learning, and constraint transfer."
